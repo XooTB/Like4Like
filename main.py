@@ -11,10 +11,10 @@ a = input(
 
 # Password Section
 
-username = 'Local vet'
-password = 'Mykey2015'
-twitchID = 'Localvet'
-twitchPass = 'Mykey2015#'
+username = ''
+password = ''
+twitchID = ''
+twitchPass = ''
 
 
 # driver.get('https://www.twitch.tv/login')
